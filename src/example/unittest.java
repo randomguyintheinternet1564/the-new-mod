@@ -12,6 +12,6 @@ public class unittest extends UnitType {
 		health = armor = 5000000f;
 		type = fly;
 	}
-	static void unitDeath(int s)
-		UnitCreateEvent()
+	static void unitDeath(int s){
+		UnitCreateEvent();
 }
