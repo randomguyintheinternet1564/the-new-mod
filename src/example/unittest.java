@@ -11,7 +11,8 @@ public class unittest extends UnitType {
 		super();
 		health = armor = 5000000f;
 		type = fly;
-	}
+	};
 	static void unitDeath(int s){
 		UnitCreateEvent();
+	}
 }
